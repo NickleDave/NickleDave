@@ -10,7 +10,7 @@ birdsong and other vocalizations.
 Most recently, I collaborated with [Yarden Cohen](https://yardencsgithub.github.io/)
 and [Tim Gardner](http://www.bu.edu/biology/people/profiles/tim-gardner/)
 to develop a neural network that learns
-how to annotate birdsong from spectrograms:
+how to annotate birdsong from spectrograms:  
 <https://github.com/yardencsGitHub/tweetynet>  
 
 - **vak**  
