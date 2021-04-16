@@ -2,9 +2,9 @@
 Generally speaking, I do research in the areas of
 machine learning, artificial intelligence, cognition, and neuroscience.
 
-## data science tools for birdsong and other vocalizations
-My work in applied machine learning focuses mainly on automated annotation of
-birdsong and other vocalizations.
+## data science tools for animal vocalizations and bioacoustics
+My work in applied machine learning focuses mainly on tools for 
+animal vocalizations and bioacoustics.
 
 - **TweetyNet**  
 Most recently, I collaborated with [Yarden Cohen](https://yardencsgithub.github.io/)
@@ -15,17 +15,16 @@ how to annotate birdsong from spectrograms:
 
 - **vak**  
 <https://github.com/NickleDave/vak>  
-library that makes it easier to work with neural networks for studying vocalizations  
+neural network toolbox for animal vocalizations and bioacoustics
 
 - **Crowsetta**  
 <https://github.com/NickleDave/crowsetta>  
-a tool to work with any format for annotating birdsong
+a tool to work with any format for annotating animal vocalizations
 
-- **hybrid-vocal-classifier**: voice-to-text for songbirds  
+- **hybrid-vocal-classifier**: a Python machine learning library for animal vocalizations and bioacoustics
 <https://hybrid-vocal-classifier.readthedocs.io/en/latest/>  
 <https://github.com/NickleDave/hybrid-vocal-classifier>  
-library for comparing supervised learning algorithms that automate labeling 
-the elements of birdsong
+combines `scikit-learn` with functionality for researchers studying animal vocalizations
 
 - **evfuncs**  
 <https://github.com/NickleDave/evfuncs>  
