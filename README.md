@@ -32,8 +32,8 @@ functions for working with files created by the EvTAF program and the evsonganal
 The functions can be used to work with Bengalese finch song in this data repository:  
 https://figshare.com/articles/Bengalese_Finch_song_repository/4805749  
 
-- **koumura**  
-<https://github.com/NickleDave/koumura>  
+- **birdsong-recognition-dataset**  
+<https://github.com/NickleDave/birdsong-recognition-dataset>  
 functions for working with this data repository:  
 <https://figshare.com/articles/BirdsongRecognition/3470165>
 
