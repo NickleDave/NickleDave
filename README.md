@@ -1,5 +1,5 @@
 # About me
-Generally speaking, I do research in the areas of
+I do research in the areas of
 machine learning, artificial intelligence, cognition, and neuroscience.
 
 ## data science tools for animal vocalizations and bioacoustics
