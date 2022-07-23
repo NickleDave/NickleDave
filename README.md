@@ -2,30 +2,34 @@
 I do research in the areas of
 machine learning, artificial intelligence, cognition, and neuroscience.
 
-## data science tools for animal vocalizations and bioacoustics
-My work in applied machine learning focuses mainly on tools for 
-animal vocalizations and bioacoustics.
+## animal vocalizations and bioacoustics 
 
-- **TweetyNet**  
-Most recently, I collaborated with [Yarden Cohen](https://yardencsgithub.github.io/)
+### **TweetyNet**  
+Recently I collaborated with [Yarden Cohen](https://yardencsgithub.github.io/)
 and [Tim Gardner](http://www.bu.edu/biology/people/profiles/tim-gardner/)
 to develop a neural network that learns
-how to annotate birdsong from spectrograms:  
+how to segment and annotate birdsong from spectrograms:  
 <https://github.com/yardencsGitHub/tweetynet>  
+Article in eLife: https://elifesciences.org/articles/63853
+
+### VocalPy
+I develop a set of software tools for researchers studying vocal behavior:  
+https://github.com/vocalpy
 
 - **vak**  
-<https://github.com/NickleDave/vak>  
+<https://github.com/vocalpy/vak>  
 neural network toolbox for animal vocalizations and bioacoustics
 
 - **Crowsetta**  
-<https://github.com/NickleDave/crowsetta>  
+<https://github.com/vocalpy/crowsetta>  
 a tool to work with any format for annotating animal vocalizations
 
 - **hybrid-vocal-classifier**: a Python machine learning library for animal vocalizations and bioacoustics
 <https://hybrid-vocal-classifier.readthedocs.io/en/latest/>  
-<https://github.com/NickleDave/hybrid-vocal-classifier>  
+<https://github.com/vocalpy/hybrid-vocal-classifier>  
 combines `scikit-learn` with functionality for researchers studying animal vocalizations
 
+### Related tools
 - **evfuncs**  
 <https://github.com/NickleDave/evfuncs>  
 functions for working with files created by the EvTAF program and the evsonganaly GUI.  
@@ -45,13 +49,12 @@ learning methods applied to birdsong element classification"
 
 - **songdkl**  
 https://github.com/NickleDave/songdkl  
-a measure of similarity between birdsongs (and other things)  
-As described in:  
+Python package for working with the $\text{Song}_D_{KL}$ metric, as described in:
 Mets, David G., and Michael S. Brainard.
 "An automated approach to the quantitation of vocalizations and vocal learning in the songbird."
 PLoS computational biology 14.8 (2018): e1006437.  
 <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006437&rev=2>  
-in collaboration with David Mets  
+in collaboration with David Mets.  
 
 ## visual search and visual attention
 During my post-doctoral fellowship at Emory University in Atlanta, Georgia,
@@ -64,11 +67,11 @@ working on algorithms for goal-driven perception.
 My goal for this project was to understand visual search:
 how does our brain solve the problem of finding an object we're looking for?
 
-- **untangling-search**
-https://github.com/NickleDave/untangling-visual-search  
-experiments to test whether the untangling mechanism proposed for object recognition 
-can also account for behavior measured in visual search tasks, 
-using deep neural network models of the primate ventral visual stream.
+- **"Could simplified stimuli change how the brain performs visual search tasks? A deep neural network study"**
+https://github.com/NickleDave/Nicholson-Prinz-JOV-DNNs-bio-vis  
+"Here we use deep neural networks to test how optimizing models for the statistics of one distribution of images 
+constrains performance on a task using images from a different distribution."
+Code for article in Journal of Vision: https://jov.arvojournals.org/article.aspx?articleid=2778890
 
 Preprint: https://www.biorxiv.org/content/10.1101/2020.10.26.354258v1
 
