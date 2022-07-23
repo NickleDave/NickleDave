@@ -2,7 +2,7 @@
 I do research in the areas of
 machine learning, artificial intelligence, cognition, and neuroscience.
 
-## animal vocalizations and bioacoustics 
+## Animal vocalizations and bioacoustics 
 
 ### **TweetyNet**  
 Recently I collaborated with [Yarden Cohen](https://yardencsgithub.github.io/)
@@ -12,7 +12,7 @@ how to segment and annotate birdsong from spectrograms:
 <https://github.com/yardencsGitHub/tweetynet>  
 Article in eLife: https://elifesciences.org/articles/63853
 
-### VocalPy
+### vocalpy
 I develop a set of software tools for researchers studying vocal behavior:  
 https://github.com/vocalpy
 
@@ -20,7 +20,7 @@ https://github.com/vocalpy
 <https://github.com/vocalpy/vak>  
 neural network toolbox for animal vocalizations and bioacoustics
 
-- **Crowsetta**  
+- **crowsetta**  
 <https://github.com/vocalpy/crowsetta>  
 a tool to work with any format for annotating animal vocalizations
 
@@ -56,7 +56,7 @@ PLoS computational biology 14.8 (2018): e1006437.
 <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006437&rev=2>  
 in collaboration with David Mets.  
 
-## visual search and visual attention
+## Visual search and visual attention
 During my post-doctoral fellowship at Emory University in Atlanta, Georgia,
 I worked with [Astrid Prinz](http://www.biology.emory.edu/research/Prinz/index.html)
 in the [Biology department](http://www.biology.emory.edu/),
