@@ -2,19 +2,15 @@
 I do research in the areas of
 machine learning, artificial intelligence, cognition, and neuroscience.
 
-## Animal vocalizations and bioacoustics 
-
-### **TweetyNet**  
-Recently I collaborated with [Yarden Cohen](https://yardencsgithub.github.io/)
-and [Tim Gardner](http://www.bu.edu/biology/people/profiles/tim-gardner/)
-to develop a neural network that learns
-how to segment and annotate birdsong from spectrograms:  
-<https://github.com/yardencsGitHub/tweetynet>  
-Article in eLife: https://elifesciences.org/articles/63853
+## Acoustic communciation in animals and bioacoustics 
 
 ### vocalpy
 I develop a set of software tools for researchers studying vocal behavior:  
 https://github.com/vocalpy
+
+- **vocalpy**  
+<https://github.com/vocalpy/vocalpy>  
+core package for acoustic communication research in Python
 
 - **vak**  
 <https://github.com/vocalpy/vak>  
@@ -24,12 +20,21 @@ neural network toolbox for animal vocalizations and bioacoustics
 <https://github.com/vocalpy/crowsetta>  
 a tool to work with any format for annotating animal vocalizations
 
+### **TweetyNet**  
+I collaborated with [Yarden Cohen](https://yardencsgithub.github.io/)
+and [Tim Gardner](http://www.bu.edu/biology/people/profiles/tim-gardner/)
+to develop a neural network that learns
+how to segment and annotate birdsong from spectrograms:  
+<https://github.com/yardencsGitHub/tweetynet>  
+Article in eLife: https://elifesciences.org/articles/63853
+
+### Related tools
+
 - **hybrid-vocal-classifier**: a Python machine learning library for animal vocalizations and bioacoustics
 <https://hybrid-vocal-classifier.readthedocs.io/en/latest/>  
 <https://github.com/vocalpy/hybrid-vocal-classifier>  
 combines `scikit-learn` with functionality for researchers studying animal vocalizations
 
-### Related tools
 - **evfuncs**  
 <https://github.com/NickleDave/evfuncs>  
 functions for working with files created by the EvTAF program and the evsonganaly GUI.  
