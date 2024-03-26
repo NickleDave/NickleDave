@@ -5,7 +5,7 @@ machine learning, artificial intelligence, cognition, and neuroscience.
 ## Acoustic communciation in animals and bioacoustics 
 
 ### vocalpy
-I develop a set of software tools for researchers studying vocal behavior:  
+I develop a set of software tools for researchers studying acoustic communication:  
 https://github.com/vocalpy
 
 - **vocalpy**  
