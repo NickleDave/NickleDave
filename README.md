@@ -1,6 +1,6 @@
 # About me
-I do research in the areas of
-machine learning, artificial intelligence, cognition, and neuroscience.
+
+I do research in animal behavior and cognition.
 
 ## Acoustic communciation in animals and bioacoustics 
 
